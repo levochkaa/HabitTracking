@@ -51,10 +51,10 @@
 		DF32A04228819A5400389DBB /* HabitTracking */ = {
 			isa = PBXGroup;
 			children = (
+				DF32A04928819A5600389DBB /* Preview Content */,
+				DF32A04728819A5600389DBB /* Assets.xcassets */,
 				DF32A04328819A5400389DBB /* HabitTrackingApp.swift */,
 				DF32A04528819A5400389DBB /* ContentView.swift */,
-				DF32A04728819A5600389DBB /* Assets.xcassets */,
-				DF32A04928819A5600389DBB /* Preview Content */,
 			);
 			path = HabitTracking;
 			sourceTree = "<group>";
